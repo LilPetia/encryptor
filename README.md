@@ -1,6 +1,7 @@
 # encryptor
 Encruptor Python MIPT 2021
 Aplication runnig by comand :
+
 python3 encryptor.py[command][parameters]
 
 
